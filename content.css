@@ -1,0 +1,94 @@
+
+#content {
+    height: 450px;
+}
+
+#logo {
+    height: 120px;
+    font-size: 90px;
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+}
+
+#search {
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+input {
+    height: 43px;
+    width: 500px;
+    color: white;
+    font-size: 20px;
+    border: 1px solid white;
+    opacity: 0.6;
+    border-radius: 40px;
+    margin: 3px 0px 0px 0px;
+    padding-left: 70px ;
+    background-color: rgb(29, 29, 29);
+}
+
+#tag {
+    height: 70px;
+    display: flex;
+    align-items: center;
+}
+
+#tag_1 {
+    height: 35px;
+    width: 130px;
+    color: #e8eaed;
+    background-color: #303134;
+    border-radius: 4px;
+    font-size: 14px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    left: 510px;
+}
+
+#tag_2 {
+    height: 35px;
+    width: 135px;
+    color: #e8eaed;
+    background-color: #303134;
+    border-radius: 4px;
+    font-size: 14px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    left: 505px;
+}
+
+#ai_comment {
+    height: 50px;
+    font-size: 13px;
+    display: flex;
+}
+
+#p-1 {
+    color: red;
+    position: relative;
+    left: 527px;
+}
+
+#p-2 {
+    position: relative;
+    left: 529px;
+}
+
+#lan {
+    height: 50px;
+    display: flex;
+}
+
+#lang {
+    position: relative;
+    left: 500px;
+    font-size: 13px;
+}
